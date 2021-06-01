@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cal</string>
+    <string name="Number1">Number 1</string>
+    <string name="Number2">Number 2</string>
+    <string name="btnOk">OK</string>
+    <string name="plus">+</string>
+    <string name="sub">-</string>
+    <string name="multi">x</string>
+    <string name="divi">/</string>
+</resources>
